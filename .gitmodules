@@ -1,0 +1,3 @@
+[submodule "LR2"]
+	path = LR2
+	url = git@github.com:Kreshik/LR2.git
